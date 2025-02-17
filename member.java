@@ -1,4 +1,4 @@
-public class Admin {
+public class member {
     private String userName="NULL";
     private int password=0;
 
